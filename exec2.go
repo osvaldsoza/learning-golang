@@ -2,12 +2,12 @@ package main
 
 import "fmt"
 
-var x int
-var y string
-var z bool
+var x1 int
+var y1 string
+var z1 bool
 
 func main() {
-	fmt.Println(x)
-	fmt.Println(y)
-	fmt.Println(z)
+	fmt.Println(x1)
+	fmt.Println(y1)
+	fmt.Println(z1)
 }
